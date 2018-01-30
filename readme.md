@@ -1,6 +1,7 @@
 <!--Actually 10:37 WDI2-->
 <!--WDI5 10:01 -->
 
+<!--WDI6 10:25 -->
 <!--10:15 WDI3 -->
 <!--10:10 25 minutes-->
 
@@ -14,6 +15,7 @@ You are a new developer at a top-of-the-line record label called Tunr.  The prod
 
 <!--Show the fully functioning artist part first -->
 <!--WDI3 10:23 pairing up and setting up -->
+<!--WDI6 10:38 all paired up and working on set up -->
 
 ## Starting Off
 
@@ -42,11 +44,12 @@ You are a new developer at a top-of-the-line record label called Tunr.  The prod
 
 ## Requirements
 
+<!--WDI6 Starting Walk-thru at 10:57-->
 <!--WDI5 10:26 -->
 <!--10:38 WDI3 -->
 <!--10:35 25 minutes-->
 
-<!--Instructor should model the entire `show` route all the way through to the back end. Devs will be at half-mast for this.  Then turn over to devs to code themselves.-->
+<!--Instructor should model the entire `create` and `show` route all the way through to the back end. Devs will be at half-mast for this.  Then turn over to devs to code themselves.-->
 
 <!--Started modeling at 10:54 WDI2-->
 
@@ -76,6 +79,7 @@ You are a new developer at a top-of-the-line record label called Tunr.  The prod
 >**Note:** Once you have finished the steps above, and you try to save a manager to the DB, you will see an error in the terminal saying something like `column "email" of relation "managers" does not exist`. If you see this, you need to recreate your `managers` table, so you should run `db/dbSetup.js` with `node` again.
 
 <!--WDI5 11:35 turning over to devs -->
+<!--WDI6 11:38 breaktime, coming back 11:48, turning over to devs 12:07 -->
 
 - Sprint 2: User can CRUD songs
   - Same as above, create `songs` routes and components for the front end.
